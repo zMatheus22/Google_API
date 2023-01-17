@@ -1,0 +1,8 @@
+#Backend
+backend/node_modules
+backend/.env
+backend/credentials.json
+backend/package-lock.json
+#Frontend
+frontend/node_modules
+frontend/package-lock.json
