@@ -1,0 +1,6 @@
+#Next
+.next
+node_modules
+.env
+credentials.json
+lustrous-strand-401100-705500e16712.json
